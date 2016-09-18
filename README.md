@@ -1,1 +1,1 @@
-# Popular_Movies
+# PopularMovies
